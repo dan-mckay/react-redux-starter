@@ -19,7 +19,6 @@
     "babelify": "*",
     "browserify": "*",
     "ecstatic": "*",
-    "react": "*",
     "redux-devtools": "*",
     "uglify-js": "*",
     "watchify": "*"
